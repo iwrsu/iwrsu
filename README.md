@@ -1,22 +1,23 @@
 <!-- Profile README for Tanishq -->
 
 <h1 align="center">Hi, I'm Tanishq 👋</h1>
-<h3 align="center">Machine Learning Enthusiast | Competitive Programmer | CS Student</h3>
+<h3 align="center">Data Science | Aspiring Machine Learning Engineer | Competitive Programmer (C++) | Exploring AI, TensorFlow & Analytics</h3>
 
 ---
 
-### 🚀 About Me  
-- 💻 I code in **Modern C++** and **Python**  
-- 🤖 Currently exploring **Machine Learning** with **TensorFlow**  
-- 🎯 Grinding through the **CSES Problem Set** and **GeeksforGeeks DSA Course**  
-- 🏆 Training under **Coding Blocks Competitive Programming Course**  
-- ⚡ Goal: Reach **Expert** on Codeforces  
+### 🧑‍🎓 About Me  
+🎓 I’m pursuing my **MCA in Data Science and Informatics** from **NIT Patna**.  
+💡 I have a strong interest in **Machine Learning**, **Deep Learning**, and **Data-Driven Technologies**.  
+🧠 I enjoy working with frameworks like **TensorFlow** to explore **Neural Networks** and **real-world AI applications**.  
+🧩 Alongside academics, I practice **Competitive Programming in Modern C++**, sharpening my problem-solving and algorithmic thinking.  
+🚀 Passionate about building **intelligent systems**, applying **AI & analytics**, and collaborating on **innovative ML projects**.  
 
 ---
 
 ### 🧠 Tech Stack  
 **Languages:** C++, Python  
-**Libraries & Tools:** TensorFlow, NumPy, Pandas, Matplotlib, Git, WSL  
+**Libraries & Tools:** TensorFlow, NumPy, Pandas, Matplotlib, Scikit-learn, Git, WSL  
+**Interests:** Data Science, Deep Learning, Competitive Programming, AI Research  
 
 ---
 
@@ -28,7 +29,7 @@
 | 🧮 **AtCoder** | [iwrsu](https://atcoder.jp/users/iwrsu) | ![AtCoder](https://badges.joonhyung.xyz/atcoder/iwrsu.svg) |
 | 💡 **LeetCode** | [iwrsu](https://leetcode.com/u/iwrsu/) | ![LeetCode](https://leetcard.jacoblin.cool/iwrsu?theme=dark&font=Source%20Code%20Pro&ext=heatmap) |
 | 🍽️ **CodeChef** | [iwrsu](https://www.codechef.com/users/iwrsu) | ![CodeChef](https://cp-logo.vercel.app/codechef/iwrsu) |
-| 🧩 **CSES Problem Set** | *In Progress* | Building strong logic daily |
+| 🧩 **CSES Problem Set** | *In Progress* | Strengthening fundamentals daily |
 
 ---
 
