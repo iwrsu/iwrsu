@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍🎓 About Me  
-🎓 I’m pursuing my **MCA in Data Science and Informatics** from **NIT Patna**.  
+🎓 I'm pursuing my **MCA in Data Science and Informatics** from **NIT Patna**.  
 💡 I have a strong interest in **Machine Learning**, **Deep Learning**, and **Data-Driven Technologies**.  
 🧠 I enjoy working with frameworks like **TensorFlow** to explore **Neural Networks** and **real-world AI applications**.  
 🧩 Alongside academics, I practice **Competitive Programming in Modern C++**, sharpening my problem-solving and algorithmic thinking.  
@@ -28,7 +28,7 @@
 | 🏁 **Codeforces** | [iwrsu](https://codeforces.com/profile/iwrsu) | ![Codeforces](https://badges.joonhyung.xyz/codeforces/iwrsu.svg) |
 | 🧮 **AtCoder** | [iwrsu](https://atcoder.jp/users/iwrsu) | ![AtCoder](https://badges.joonhyung.xyz/atcoder/iwrsu.svg) |
 | 💡 **LeetCode** | [iwrsu](https://leetcode.com/u/iwrsu/) | ![LeetCode](https://leetcard.jacoblin.cool/iwrsu?theme=dark&font=Source%20Code%20Pro&ext=heatmap) |
-| 🍽️ **CodeChef** | [iwrsu](https://www.codechef.com/users/iwrsu) | ![CodeChef](https://cp-logo.vercel.app/codechef/iwrsu) |
+| 🍽️ **CodeChef** | [iwrsu](https://www.codechef.com/users/iwrsu) | ![CodeChef](https://img.shields.io/badge/CodeChef-iwrsu-brown?style=flat&logo=codechef) |
 | 🧩 **CSES Problem Set** | *In Progress* | Strengthening fundamentals daily |
 
 ---
@@ -36,15 +36,15 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iwrsu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwrsu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iwrsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=iwrsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🧮 Coding Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwrsu&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iwrsu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
